@@ -6,6 +6,8 @@
 // @author       CJ-Hot
 // @match        https://www.2t58.com/*
 // @grant        none
+// @icon         https://imge.kugou.com/commendpic/20160923/20160923162707215688.png
+// @homepage     https://gh.llkk.cc/https://github.com/CJ-Hot/Tampermonkey/blob/main/2t58%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E4%BC%98%E5%8C%96.js
 // ==/UserScript==
 
 (function() {
