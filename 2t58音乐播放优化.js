@@ -499,6 +499,7 @@
                path.includes('/singer/') ||
                path.includes('/radio/') ||
                path.includes('/radiolist/') ||
+			   path.includes('/so/') ||
                path.includes('/mvlist/');
     }
 
